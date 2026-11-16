@@ -1,0 +1,8 @@
+{
+  "transactions": [
+    {
+      "rpc": "http://127.0.0.1:8545"
+    }
+  ],
+  "recovery_generation": "0x4dae3594b91bed3faad9fd45bf43fa0a0a3121270a87565ff07fa04a26ddd51a"
+}
